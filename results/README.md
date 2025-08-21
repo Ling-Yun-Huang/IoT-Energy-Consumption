@@ -1,5 +1,11 @@
 # IoT-Based Energy Consumption Analysis and Forecasting for Building Systems
 
+## 0. Key Takeaways
+
+- Building energy consumption exhibits clear **daily and weekly cycles**, with peaks in the morning and evening and troughs during early morning hours.  
+- **LightGBM** outperforms RandomForest, XGBoost, and LSTM in prediction accuracy.  
+- **IoT system optimisation** and energy management can leverage forecasts for load control and efficiency improvements.
+
 ## 1. Historical Consumption Patterns
 
 - The energy consumption exhibits both **weekly and daily cycles**.  
