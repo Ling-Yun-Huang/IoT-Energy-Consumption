@@ -47,6 +47,7 @@
 - **Troughs:** Low consumption slightly overestimated.
 
 > Forecast captures daily/weekly cycles well, with minor deviations consistent with short-term fluctuations.
+
 ![Forecast Energy Consumption](figure/Forecast_plot.png)
 
 ## 5. Insights & Optimisation Suggestions
