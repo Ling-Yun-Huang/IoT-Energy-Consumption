@@ -12,6 +12,7 @@
 - **Weekly pattern:** Very low or almost zero consumption during weekends; highest on weekdays.  
 - **Daily pattern:** Peaks in the **morning (08:00–10:00)** and **evening to midnight (18:00–00:00)**; lowest consumption in the **early morning (00:00–06:00)**.  
 - These patterns are consistent across multiple weeks, showing strong regularity in energy usage.
+![Daily Energy Consumption](figure/DailyConsumption_plot.png)
 
 ## 2. Feature Engineering
 
