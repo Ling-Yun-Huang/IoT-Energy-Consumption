@@ -2,18 +2,19 @@
 
 This project forecasts hourly energy consumption for the next 7 days based on historical data, focusing on **IoT applications** in energy monitoring and smart grids.  
 
-The workflow includes:
+## Key Takeaways
+- Building energy consumption exhibits **clear daily and weekly cycles**, with morning/evening peaks and early morning troughs.  
+- **LightGBM** outperforms RandomForest, XGBoost, and LSTM in forecasting accuracy.  
+- Forecasts can guide **IoT-based energy management** for load optimization and energy efficiency improvements.
+
+---
+
+## Project Workflow:
 - **Feature engineering:** generating time-based features, rolling statistics, and lag features  
 - **Model comparison:** training and evaluating four different models to identify the best-performing one  
 - **Forecasting:** using the selected model to predict the next 7 days of energy consumption  
 - **Visualisation:** comparing historical weekly patterns with forecasts
 
----
-
-## Usage
-1. Download the dataset from Kaggle:  
-   [Energy Consumption Time Series Dataset](https://www.kaggle.com/ds/2678471)  
-2. Run the Jupyter notebook to train models and visualise forecasts.
 
 ---
 
